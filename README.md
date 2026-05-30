@@ -68,14 +68,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamm-shukla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamm-shukla&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamm-shukla&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamm-shukla&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shivamm-shukla&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shivamm-shukla&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -85,7 +85,17 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shivamm-shukla&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=shivamm-shukla&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamm-shukla&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
