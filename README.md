@@ -68,8 +68,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamm-shukla&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamm-shukla&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-beta-ten-35.vercel.app/api?username=shivamm-shukla&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-beta-ten-35.vercel.app/api/top-langs/?username=shivamm-shukla&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -86,6 +86,16 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=shivamm-shukla&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
+
+</div>
+
+---
+
+### 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shivamm-shukla?theme=dark&font=Nunito&ext=heatmap&border=0)](https://leetcode.com/u/shivamm-shukla/)
 
 </div>
 
