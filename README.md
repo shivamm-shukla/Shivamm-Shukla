@@ -14,14 +14,14 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 CS sophomore at **Sitare University**, Lucknow
+- 🎓 Aspiring Software Developer with Artificial Intelligence.
 - 🔭 Currently building **TalentScope** — an AI-powered internship intelligence tool
 - 🏆 Cleared **Round 1 of Young Turks 2025** by Naukri Campus
 - 🧠 Fascinated by how programming languages work under the hood
 - 🌱 Currently learning **React, TypeScript & System Design**
 - 💬 Ask me about **Java, Python, DSA, or building interpreters**
 - 📫 Reach me at **shivamm.shukla00@gmail.com**
-- ⚡ Fun fact: I built a working programming language interpreter as a sophomore!
+
 
 ---
 
