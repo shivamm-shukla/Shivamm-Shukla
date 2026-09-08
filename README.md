@@ -1,120 +1,71 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam+Shukla;CS+Student+%40+Sitare+University;Building+real+things+with+code" alt="Typing SVG" /></a>
+# Shivam Shukla
 
-<br/>
+Software developer · CS student at Sitare University, Lucknow
+
+I build software the way it's meant to ship — real databases, real tests, real CI, real deployment, not throwaway prototypes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamm-shukla)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamm.shukla00@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamm-shukla)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shivamm-shukla/)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About me
 
-- 🎓 Aspiring Software Developer with Artificial Intelligence.
-- 🔭 Currently building **TalentScope** — an AI-powered internship intelligence tool
-- 🏆 Cleared **Round 1 of Young Turks 2025** by Naukri Campus
-- 🧠 Fascinated by how programming languages work under the hood
-- 🌱 Currently learning **React, TypeScript & System Design**
-- 💬 Ask me about **Java, Python, DSA, or building interpreters**
-- 📫 Reach me at **shivamm.shukla00@gmail.com**
-
+Most of what I build starts from a problem I've actually seen — a milk seller with no way to track dues, students hunting for internships across ten tabs. Currently building **Santa**, an AI career companion for CS/BCA students, and **Santa Studio**, a multi-agent system that turns a topic into a finished video end to end.
 
 ---
 
-### 🛠️ Tech Stack
+### Santa — career + creation suite
 
-**Languages**
+**santa scout** &nbsp;·&nbsp; repo: [`talentscope`](https://github.com/shivamm-shukla/talentscope) &nbsp;·&nbsp; [live](https://talentscope-pisc.onrender.com) 🟢
+
+Proactive internship/job discovery for CS/BCA students. Full SDET test pyramid (unit, integration, API, E2E), CI-gated merges, deployed on Render + Neon Postgres. Validating with a closed cohort before public launch.
+
+`Python` `Flask` `PostgreSQL` `Playwright` `Gemini AI`
+
+**santa studio** &nbsp;·&nbsp; 🟡 in development
+
+Autonomous multi-agent studio: topic in, finished captioned video out. Research swarm, script generation, cloned voice, scene assembly — orchestrated end to end through a state-machine pipeline. Four frontends (CLI, Telegram bot, Streamlit, FastAPI web) share one backend. 300+ passing tests.
+
+`Python` `FastAPI` `Multi-agent orchestration` `Voice cloning`
+
+---
+
+### Other projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**bloop-interpreter-java**](https://github.com/shivamm-shukla/bloop-interpreter-java) | Tree-walking interpreter for a custom scripting language. Lexer → Parser → AST → Runtime. Led a team of 3. | Java |
+| [**doodhkhata**](https://github.com/shivamm-shukla/doodhkhata) | Offline-first PWA for local milk sellers to track deliveries and dues. Live and in real use — [doodhkhata.vercel.app](https://doodhkhata.vercel.app) | React · TypeScript · PWA |
+
+---
+
+### Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**Currently Learning**
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🔤 Bloop Interpreter](https://github.com/shivamm-shukla/bloop-interpreter-java) | Tree-walking interpreter for a custom language. Led team of 3. Lexer → Parser → AST → Runtime pipeline | Java |
-| [🎯 TalentScope](https://github.com/shivamm-shukla/talentscope) | AI-powered internship intelligence tool — scrapes job boards, sends alerts, surfaces skill trends | Python · Flask · Gemini AI |
-| [📱 Jeetlo Android](https://github.com/shivamm-shukla/jeetlo-android) | Exam prep app for Hindi-medium rural students (JNVST/CHS) | Kotlin · Android |
-| [🥛 DoodhKhata](https://github.com/shivamm-shukla/doodhkhata) | Offline-first PWA for milk sellers. Live at [doodhkhata.vercel.app](https://doodhkhata.vercel.app) | React · TypeScript · PWA |
-| [🔍 Page Scraper](https://github.com/shivamm-shukla/page-scraper) | CLI tool to extract title, body text, and outlinks from any webpage | Python |
-
----
-
-### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-beta-ten-35.vercel.app/api?username=shivamm-shukla&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats-beta-ten-35.vercel.app/api/top-langs/?username=shivamm-shukla&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=shivamm-shukla&theme=github-dark&hide_border=true&background=0D1117&stroke=30363D&ring=E6EDF3&fire=E6EDF3&currStreakLabel=E6EDF3" />
+
+<a href="https://leetcode.com/u/shivamm-shukla/"><img height="165em" src="https://leetcard.jacoblin.cool/shivamm-shukla?theme=dark&font=Fira%20Code&ext=heatmap&border=0" /></a>
 
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=shivamm-shukla&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivamm-shukla&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
-
-</div>
-
----
-
-### 🧩 LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shivamm-shukla?theme=dark&font=Nunito&ext=heatmap&border=0)](https://leetcode.com/u/shivamm-shukla/)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamm-shukla&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=shivamm-shukla&color=6E40C9&style=for-the-badge)
-
-*"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
